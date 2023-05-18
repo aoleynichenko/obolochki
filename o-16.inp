@@ -1,0 +1,8 @@
+#
+# my first nuclear calculation: O16 isotope
+#
+
+protons 8
+neutrons 8
+grid_size 100
+rmax 10

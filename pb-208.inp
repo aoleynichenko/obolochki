@@ -1,0 +1,8 @@
+#
+# my first nuclear calculation: Pb208 isotope
+#
+
+protons 82
+neutrons 126
+grid_size 1000
+rmax 20
