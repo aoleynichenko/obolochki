@@ -1,5 +1,5 @@
 # obolochki
-Program implementing the simple nuclear shell mode:
+Program implementing the simple nuclear shell model:
 
 - spherical Woods-Saxon potential;
 - spin-orbit coupling is included.
